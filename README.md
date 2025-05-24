@@ -1,3 +1,5 @@
+´´´´
+
 # resumo-do-lab
 
 Entrega do desafio da aula de Microsoft Azure
@@ -29,17 +31,4 @@ Essa parte da aula foi muito valiosa para mim, pois mostrou como a nuvem facilit
 
 Estou motivada para explorar mais serviços de banco de dados no Azure e entender melhor como integrá-los com outras aplicações na nuvem.
 
----
-
-
-
-
-
-
-
-
-
-
-
----
-
+´´´
