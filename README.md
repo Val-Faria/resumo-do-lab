@@ -31,4 +31,15 @@ Essa parte da aula foi muito valiosa para mim, pois mostrou como a nuvem facilit
 
 Estou motivada para explorar mais serviços de banco de dados no Azure e entender melhor como integrá-los com outras aplicações na nuvem.
 
+# Construindo arquiteturas no Azure
+
+Construir arquiteturas no Azure significa planejar e montar um conjunto de serviços e recursos na nuvem que trabalham juntos para atender às necessidades de um sistema, aplicação ou empresa. Em palavras simples, é como montar um quebra-cabeça onde cada peça representa um serviço diferente, como servidores, bancos de dados, redes, segurança e armazenamento, e todas precisam se encaixar para que o sistema funcione bem.
+
+Na aula, aprendi que o Azure oferece muitos serviços diferentes, e a arquitetura é o jeito de combinar esses serviços para criar soluções eficientes, confiáveis e que podem crescer conforme a demanda. Por exemplo, podemos usar máquinas virtuais para rodar aplicativos, bancos de dados para guardar informações, redes para conectar tudo isso com segurança, e ferramentas de monitoramento para acompanhar se tudo está funcionando direito.
+
+Um ponto importante é pensar na escalabilidade, que é a capacidade de aumentar ou diminuir os recursos conforme a necessidade, sem perder desempenho. Também precisamos considerar a segurança, para proteger dados e acessos, e a disponibilidade, para garantir que os serviços fiquem no ar sem interrupções.
+
+Construir arquiteturas no Azure é muito valioso porque permite que empresas e desenvolvedores criem sistemas modernos, ágeis e preparados para o futuro, usando a infraestrutura da nuvem sem precisar investir em equipamentos físicos caros.
+
+
 ´´´
