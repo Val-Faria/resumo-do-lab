@@ -47,6 +47,29 @@ Nesta parte da aula, aprendi a importância de configurar corretamente os recurs
 
 Foi muito bom adquirir esse conhecimento, porque me mostrou que a nuvem não é só sobre criar máquinas, mas também sobre gerenciar recursos de forma inteligente para garantir eficiência, performance e economia. Saber ajustar esses parâmetros me deixou mais confiante para trabalhar com ambientes em nuvem reais e oferecer soluções que atendam bem às necessidades do negócio.
 
+# 🚀 Desafio DIO: Inteligência Artificial com Azure Speech Studio e Language Studio
 
+Dando continuidade nos estudos focando na parte do desafio da DIO, com o objetivo de explorar na prática os serviços de inteligência artificial da Microsoft Azure, voltados para fala e linguagem natural.
+
+Durante as aulas e atividades, tive a oportunidade de aprender e aplicar conceitos importantes usando duas ferramentas principais: Speech Studio e Language Studio.
+
+## O que eu aprendi
+
+Ao longo do desafio, aprendi a:
+
+- Usar o Speech Studio para transformar voz em texto e entender como funciona o reconhecimento de fala com inteligência artificial.
+- Trabalhar com o Language Studio para analisar textos, identificar sentimentos, extrair entidades e obter informações relevantes automaticamente.
+- Aplicar a pesquisa cognitiva para entender o conteúdo e o contexto de documentos, mesmo em diferentes idiomas.
+- Conhecer a inteligência de documentos, que permite extrair dados estruturados de arquivos como PDFs e imagens escaneadas.
+- Observar como a IA pode facilitar a análise de grandes volumes de informações com mais rapidez e eficiência.
+
+## Ferramentas utilizadas
+
+- Azure Speech Studio
+- Azure Language Studio
+- GitHub
+- Markdown
+
+Achei muito interessante ver como a inteligência artificial pode ser aplicada de forma prática em tarefas do dia a dia, como analisar documentos ou reconhecer comandos de voz. As ferramentas da Azure foram intuitivas e me ajudaram a entender melhor como essas tecnologias funcionam.
 
 ´´´
