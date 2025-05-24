@@ -72,4 +72,37 @@ Ao longo do desafio, aprendi a:
 
 Achei muito interessante ver como a inteligência artificial pode ser aplicada de forma prática em tarefas do dia a dia, como analisar documentos ou reconhecer comandos de voz. As ferramentas da Azure foram intuitivas e me ajudaram a entender melhor como essas tecnologias funcionam.
 
+# Desafio DIO - Organização e Pesquisa de Documentos com IA
+
+Aprendi no desafio da DIO sobre como usar inteligência artificial para organizar e pesquisar documentos. O objetivo foi entender, na prática, como podemos usar ferramentas do Azure para lidar com grandes volumes de informação de forma inteligente.
+
+## O que eu aprendi
+
+Durante o desafio, aprendi que a inteligência artificial pode ajudar muito na organização de documentos. Descobri que existe um processo que começa com a ingestão dos documentos, ou seja, colocar os arquivos no sistema para que possam ser analisados. Depois, esses dados são indexados, criando uma estrutura que facilita encontrar exatamente o que precisamos.
+
+Também entendi que a pesquisa cognitiva vai além da simples busca por palavras-chave. Ela tenta entender o contexto e o significado do que está sendo pesquisado, o que torna os resultados muito mais relevantes. Além disso, conheci a inteligência de documentos, que consegue extrair informações importantes de PDFs, imagens e outros formatos automaticamente.
+
+## Ferramentas que usei
+
+- Azure AI Search para organizar e pesquisar os documentos  
+- Portal do Azure para configurar e testar as ferramentas  
+- GitHub para armazenar e documentar todo o trabalho  
+- Markdown para escrever essa documentação de forma clara
+
+## Minha experiência
+
+No começo, foi um pouco desafiador entender todos os conceitos, mas conforme fui praticando, ficou mais claro como essas ferramentas funcionam juntas. Achei muito interessante ver como a IA consegue organizar e facilitar o acesso a grandes quantidades de dados de forma rápida e eficiente.
+
+Além disso, essa experiência me fez perceber a importância de documentar o que fazemos, pois isso ajuda a revisar o aprendizado e compartilhar com outras pessoas.
+
+## Links que me ajudaram
+
+- Laboratório oficial do Azure AI Search: https://learn.microsoft.com/training/modules/explore-azure-ai-search/  
+- Documentação do GitHub: https://docs.github.com/  
+- Guia de Markdown: https://guides.github.com/features/mastering-markdown/
+
+
+Esse desafio foi uma ótima oportunidade para aprender na prática e dar os primeiros passos no uso de IA para organização de documentos. Estou animado para continuar explorando esse mundo!
+
+
 ´´´
