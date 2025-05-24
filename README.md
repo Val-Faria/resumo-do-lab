@@ -41,5 +41,12 @@ Um ponto importante é pensar na escalabilidade, que é a capacidade de aumentar
 
 Construir arquiteturas no Azure é muito valioso porque permite que empresas e desenvolvedores criem sistemas modernos, ágeis e preparados para o futuro, usando a infraestrutura da nuvem sem precisar investir em equipamentos físicos caros.
 
+# Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+
+Nesta parte da aula, aprendi a importância de configurar corretamente os recursos das máquinas virtuais, como CPU, memória e armazenamento, para garantir que elas tenham desempenho adequado para as necessidades dos aplicativos que vão rodar nelas. Também vi como o dimensionamento é fundamental para otimizar custos e evitar desperdícios, escolhendo o tamanho certo da VM conforme a demanda.
+
+Foi muito bom adquirir esse conhecimento, porque me mostrou que a nuvem não é só sobre criar máquinas, mas também sobre gerenciar recursos de forma inteligente para garantir eficiência, performance e economia. Saber ajustar esses parâmetros me deixou mais confiante para trabalhar com ambientes em nuvem reais e oferecer soluções que atendam bem às necessidades do negócio.
+
+
 
 ´´´
