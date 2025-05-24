@@ -18,5 +18,28 @@ Além disso, essa atividade me ajudou a melhorar minhas habilidades com o GitHub
 
 Estou animada para continuar explorando mais funcionalidades da nuvem e aperfeiçoar ainda mais minha prática em ambientes reais!
 
+# Configurando uma instância de Banco de Dados na Azure
+
+Nesta etapa da aula, aprendi como criar e configurar uma instância de banco de dados na Azure, um passo fundamental para armazenar dados de forma segura e acessível na nuvem. Vi que o Azure oferece diversas opções, como Azure SQL Database e Cosmos DB, permitindo escolher o serviço mais adequado para cada necessidade.
+
+Pude praticar a criação da instância, definir configurações básicas, como tamanho, localização e regras de acesso, e entender a importância de garantir a segurança e a alta disponibilidade do banco.
+
+Anotação:
+Essa parte da aula foi muito valiosa para mim, pois mostrou como a nuvem facilita o gerenciamento de bancos de dados sem precisar se preocupar com infraestrutura física. Isso abre muitas possibilidades para projetos que precisam de escalabilidade e confiabilidade no armazenamento dos dados.
+
+Estou motivada para explorar mais serviços de banco de dados no Azure e entender melhor como integrá-los com outras aplicações na nuvem.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 ---
 
