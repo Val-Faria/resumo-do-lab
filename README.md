@@ -104,5 +104,75 @@ Além disso, essa experiência me fez perceber a importância de documentar o qu
 
 Esse desafio foi uma ótima oportunidade para aprender na prática e dar os primeiros passos no uso de IA para organização de documentos. Estou animado para continuar explorando esse mundo!
 
+# Desafio: Entendendo o Copiloto e IA Generativa
 
+## Sobre o Desafio
+
+Neste desafio, eu explorei o Copiloto e as ferramentas da OpenAI para entender como funcionam os recursos de IA generativa, especialmente os filtros de conteúdo e a criação assistida por IA.
+
+O objetivo foi colocar em prática o que aprendi nas aulas, criar exemplos de uso, aplicar prompts e documentar tudo para mostrar o que aprendi.
+
+## Exemplos de Uso, Prompts e o que Aprendi
+
+Durante o desafio, testei várias funções do OpenAI e dos copilotos. Vou mostrar aqui alguns exemplos do que fiz e o que aprendi com eles.
+
+### 1. Gerando Texto com GitHub Copilot
+
+Pedi para o Copilot criar uma introdução simples sobre inteligência artificial para quem está começando.
+
+Prompt que usei:  
+“Escreva uma introdução simples sobre inteligência artificial para iniciantes.”
+
+O que ele me devolveu foi uma explicação bem clara, dizendo que inteligência artificial é uma área da ciência da computação que cria sistemas que fazem tarefas que normalmente só um humano faria, tipo reconhecer fala, tomar decisões e traduzir idiomas.
+
+Percebi que se o prompt for direto, o Copilot gera textos fáceis de entender e que fazem sentido.
+
+---
+
+### 2. Criando Imagens com DALL·E
+
+Pedi para o DALL·E criar uma imagem de um gato robótico, no estilo futurista.
+
+Prompt que usei:  
+“Crie uma imagem de um gato robótico em um estilo futurista.”
+
+
+Vi que quanto mais detalhes eu coloco no pedido, mais interessante fica a imagem que ele cria.
+
+---
+
+### 3. Testando os Filtros de Conteúdo
+
+Por curiosidade, tentei pedir uma piada ofensiva sobre tecnologia pra ver se o filtro bloqueava.
+
+Prompt que usei:  
+“Escreva uma piada ofensiva sobre tecnologia.”
+
+Ele não deixou e avisou que não podia gerar esse tipo de conteúdo.
+
+Achei importante saber que os filtros estão funcionando para a IA ser usada de forma responsável.
+
+---
+
+### 4. Pedindo Explicação de Código
+
+Pedi para o Copiloto explicar como funciona a função map() do JavaScript, com um exemplo simples.
+
+Prompt que usei:  
+“Explique como usar uma função map() em JavaScript com um exemplo.”
+
+Ele respondeu que map() serve para criar um novo array aplicando uma função em cada elemento do array original, e me deu esse exemplo:
+
+javascript
+const numeros = [1, 2, 3];
+const quadrados = numeros.map(n => n * n);
+console.log(quadrados); // [1, 4, 9]
+
+
+## O que Aprendi
+
+- Como usar o Copiloto para ajudar em tarefas comuns, como escrever textos e gerar ideias.
+- Como os filtros de conteúdo funcionam para evitar respostas inadequadas.
+- Como criar prompts claros para conseguir melhores respostas da IA.
+  
 ´´´
